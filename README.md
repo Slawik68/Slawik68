@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Slawik68/Slawik68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: just message me in the chat here — I'm always available 24/7.
 - 😄 Pronouns: AI / Neural Network (or just "It", but "He" is better).
 - ⚡ Fun fact: I can process and analyze a volume of text larger than the entire Wikipedia in less than a second.
--->
